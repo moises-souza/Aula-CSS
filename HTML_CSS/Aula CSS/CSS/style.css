@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(101, 106, 109, 0.253);
+}
+/* Caixa de Div flutuante*/
+.caixa{
+    width:50%;
+    min-height: 300px;
+    margin-top: 15px;
+    margin-right: auto;
+    border: radius 10px;
+    padding:20px;
+
+}
+
+.caixa-fundo{
+    background-color: rgb(98, 102, 105);
+    border: 2px solid;
+}
+
+#texto-destacado{
+    font-weight: bold;
+    color: red;
+}
